@@ -8,7 +8,7 @@ J'aime partager mes connaissances et mon expérience, contribuer à des projets 
 
 Je suis le président de [**HebergAll**](https://pandoralife.fr), **Petite entreprise d'hébergement, avec une équipe de passioné !**
 
-- 🤔  Je prends des missions, donc si vous avez un projet n'h"sitez pas à me [**contacter**](https://discord.gg/9GbuQhqWD9).
+- 🤔 &nbsp; Je prends des missions, donc si vous avez un projet n'h"sitez pas à me [**contacter**](https://discord.gg/9GbuQhqWD9).
 
 - 🔭 &nbsp; **Aussi, je travaille sur**: Quelque chose de cool lié à l'IA en python je fais des mises à jour régulièrement 😉.
 
