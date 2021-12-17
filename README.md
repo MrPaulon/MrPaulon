@@ -20,13 +20,10 @@ Je suis le président de [**HebergAll**](https://pandoralife.fr), **Petite entre
 
 **NOTE**: *Les meilleures languages n'indiquent pas mon niveau de compétence ou quelque chose comme ça, c'est une métrique github des languages dont j'ai le plus de code sur github.*
 
-<a href="https://github.com/mohamed-taman/">[Uploading 68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f68616d65642d74616d616e26636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d66616…]()[Uploading 68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6f68616d65642d74616d616e266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d66616c7365.svg…]()[Uploading 68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f68616d65642d74616d616e26636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d66616…]()
-
-
-
+<a href="https://github.com/mrpaulon/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpaulon&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a> 
-<a href="https://github.com/mohamed-taman/">
+<a href="https://github.com/mrpaulon/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpaulon&layout=compact&theme=radical&hide_border=false" />
 </a>
   
