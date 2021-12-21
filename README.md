@@ -18,7 +18,7 @@ Je suis le président de [**HebergAll**](https://pandoralife.fr), **Petite entre
 
 <hr/>
 
-**NOTE**: *Les meilleures languages n'indiquent pas mon niveau de compétence ou quelque chose comme ça, c'est une métrique github des languages dont j'ai le plus de code sur github.*
+**NOTE**: *Les languages situés ci-dessous ne reflèttent pas mon niveau, le graphique est la à titre informatif il vous permet de savoir quels sont les languages que j'utilise le plus dans mes répos.*
 
 <a href="https://github.com/mrpaulon/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpaulon&count_private=true&show_icons=true&theme=radical&hide_border=false" />
