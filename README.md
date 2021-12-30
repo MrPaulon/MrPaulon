@@ -6,7 +6,7 @@
 
 J'aime partager mes connaissances et mon expérience, contribuer à des projets open source, et surtout créer des projets toujours de plus en plus fou !
 
-Je suis le président de [**HebergAll**](https://pandoralife.fr), **Petite entreprise d'hébergement, avec une équipe de passioné !**
+<!--Je suis le président de [**HebergAll**](https://pandoralife.fr), **Petite entreprise d'hébergement, avec une équipe de passioné !**-->
 
 - 🤔 &nbsp; Je prends des missions, donc si vous avez un projet n'h"sitez pas à me [**contacter**](https://discord.gg/9GbuQhqWD9).
 
