@@ -1,6 +1,6 @@
 ### Hi there, I'am Paul! 👋
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Mr_Paulon)
-[![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/m.m.taman)
+[![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/nantou_paul)
 
 **Jeune Developpeur complétement fou de code, je code principalement en (CSS, HTML, PHP, JS, SQL, PYTHON, JS, C, LUA)**
 
