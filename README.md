@@ -6,8 +6,6 @@
 
 J'aime partager mes connaissances et mon expérience, contribuer à des projets open source, et surtout créer des projets toujours de plus en plus fou !
 
-<!--Je suis le président de [**HebergAll**](https://pandoralife.fr), **Petite entreprise d'hébergement, avec une équipe de passioné !**-->
-
 - 🤔 &nbsp; Je prends des missions, donc si vous avez un projet n'hésitez pas à me [**contacter**](https://discord.gg/9GbuQhqWD9).
 
 - 🔭 &nbsp; **Aussi, je travaille sur**: Quelque chose de cool lié à l'IA en python je fais des mises à jour régulièrement 😉.
@@ -25,7 +23,7 @@ J'aime partager mes connaissances et mon expérience, contribuer à des projets 
 </a> 
 
 <a href="https://github.com/mrpaulon/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpaulon&layout=compact&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=mrpaulon&layout=compact&theme=radical&hide_border=false" />
 </a>
   
 <!--
