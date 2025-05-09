@@ -25,8 +25,6 @@ Je travaille principalement avec : **HTML, CSS, JavaScript, PHP, SQL, Python, C,
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpaulon&theme=jolly&show_icons=true" />
 </a>  
 
-<br><br>
-
 <a href="https://github.com/mrpaulon/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpaulon&theme=jolly&layout=compact" />
 </a>
