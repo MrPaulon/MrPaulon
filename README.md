@@ -1,32 +1,38 @@
-### Hi there, I'am Paul! 👋
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Mr_Paulon)
+### Salut à tous, moi c’est Paul ! 👋  
+[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Mr_Paulon)
 
-**Jeune Developpeur complétement fou de code, je code principalement en (CSS, HTML, PHP, JS, SQL, PYTHON, C, C++, LUA)**
+🚀 **Développeur passionné, j’adore coder et apprendre chaque jour.**  
+Je travaille principalement avec : **HTML, CSS, JavaScript, PHP, SQL, Python, C, C++, et Lua.**
 
-J'aime partager mes connaissances et mon expérience, contribuer à des projets open source, et surtout créer des projets toujours de plus en plus fou !
+💡 J’aime :
+- Partager mes connaissances et mon expérience,
+- Contribuer à des projets open source,
+- Créer des projets toujours plus ambitieux et créatifs !
 
-- 🤔 &nbsp; Je prends des missions, donc si vous avez un projet n'hésitez pas à me [**contacter**](https://discord.gg/9GbuQhqWD9).
+---
 
-- 🔭 &nbsp; **Aussi, je travaille sur**: Quelque chose de cool lié à l'IA en python je fais des mises à jour régulièrement 😉.
+### 🛠️ Ce que je fais :
+- 🔭 **En ce moment :** Je bosse sur un projet super cool autour **d'un SERVER PANEL** – avec des mises à jour régulières 😉  
+- 📫 **Pour me suivre ou me contacter :** utilisez les liens ci-dessus 👆 (et n’hésitez pas à me suivre ici aussi !)
+- ⚡ **Fun fact :** Je suis un grand fan de Formule 1 🏎️
 
-- 📫 &nbsp; **Comment me joindre**: suivez-moi à partir des liens ci-dessus 👆, en plus de me suivre ici.
+---
 
-- ⚡ &nbsp; **Fun fact**: I love F1.
-
-<hr/>
-
-**NOTE**: *Les languages situés ci-dessous ne reflèttent pas mon niveau, le graphique est la à titre informatif il vous permet de savoir quels sont les languages que j'utilise le plus dans mes répos.*
+### 📊 Statistiques GitHub  
+> *PS : Les langages ci-dessous ne reflètent pas mon niveau de maîtrise, mais simplement ceux que j’utilise le plus dans mes dépôts.*
 
 <a href="https://github.com/mrpaulon/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpaulon&theme=jolly&show_icons=true)" />
-</a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpaulon&theme=jolly&show_icons=true" />
+</a>  
 
-<br>
+<br><br>
 
 <a href="https://github.com/mrpaulon/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpaulon&theme=jolly&layout=compact" />
 </a>
- 
+
+---
+
 <!--
 **mrpaulon/mrpaulon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
