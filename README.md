@@ -2,7 +2,7 @@
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Mr_Paulon)
 
 🚀 **Développeur passionné, j’adore coder et apprendre chaque jour.**  
-Je travaille principalement avec : **HTML, CSS, JavaScript, PHP, SQL, Python, C, C++, et Lua.**
+Je travaille principalement avec : **WEB, JavaScript + ( Tsx, Vue/React), PHP, SQL, Python, C, C++, et Lua.**
 
 💡 J’aime :
 - Partager mes connaissances et mon expérience,
